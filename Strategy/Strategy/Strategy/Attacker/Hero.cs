@@ -38,6 +38,9 @@ namespace Strategy
             _weapon.Shoot();
             Console.WriteLine($"{_name} ceases to stand menacingly");
 
+
+
+
         }
 
 
