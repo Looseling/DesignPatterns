@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DesignPatterns\\Strategy\\ProxyPattern\\ProxyPattern\\ProxyPattern.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DesignPatterns\\ProxyPattern\\ProxyPattern\\ProxyPattern.csproj",
       "projectName": "ProxyPattern",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DesignPatterns\\Strategy\\ProxyPattern\\ProxyPattern\\ProxyPattern.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\DesignPatterns\\ProxyPattern\\ProxyPattern\\ProxyPattern.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DesignPatterns\\Strategy\\ProxyPattern\\ProxyPattern\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\DesignPatterns\\ProxyPattern\\ProxyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
