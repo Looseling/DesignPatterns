@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "495c805c-9321-4e18-8a7b-a6f9155438a8": {
+      "ProjectGuid": "495c805c-9321-4e18-8a7b-a6f9155438a8",
+      "DisplayName": "MeDiatorDemo",
+      "ColorIndex": 0
+    },
+    "599ddd32-9b7c-4d4d-8392-a0ef3f6f4717": {
+      "ProjectGuid": "599ddd32-9b7c-4d4d-8392-a0ef3f6f4717",
+      "DisplayName": "DemoLib",
+      "ColorIndex": 1
+    },
+    "936cea01-1f4e-4a38-ae3a-d0f0818e1fb1": {
+      "ProjectGuid": "936cea01-1f4e-4a38-ae3a-d0f0818e1fb1",
+      "DisplayName": "DEMOMeidatrAPI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
